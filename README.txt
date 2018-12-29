@@ -1,0 +1,1 @@
+a jupyter notebook attempting to improve upon classical Geometric Brownian Motion by building an empirical model of asset prices with non-constant volatility
